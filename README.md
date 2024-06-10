@@ -2,21 +2,21 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=500&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Developer;Frontend+Developer;MERN+Stack+Developer;Open+Source+Contributor;Love+to+learn+new+Stuff...&color=ffeb3b">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=500&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Open+Source+Contributor;Love+to+learn+new+Stuff...&color=1572B6">
   </a>
 </p>
 
-### About Me
+### <picture><img src = "./assets/mdImages/about_me.gif" width = 30px></picture> About Me
 
 I am a **Full Stack Developer** currently working at **Wan Buffer Services**. With a passion for coding and a knack for creating dynamic web, mobile & Desktop applications, I thrive on turning ideas into reality.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-#### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18"><b> Languages and Tools</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Languages and Tools</b>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
+  <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap badge">
  <img src="https://img.shields.io/badge/Tailwind%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS badge">
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
@@ -32,5 +32,19 @@ I am a **Full Stack Developer** currently working at **Wan Buffer Services**. Wi
 <img src="https://img.shields.io/badge/-Postman-F56933?&style=for-the-badge&logo=postman&logoColor=f7f7f7" />
 <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify badge">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  
 </div>
+
+<br>
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<br>
+
+<div>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sunasarahusenahmad&show_icons=true&theme=cobalt" alt="Husenahmad GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunasarahusenahmad&layout=compact&theme=cobalt" alt="Top Languages"/>
+</div>
+<br>
+
+
+
