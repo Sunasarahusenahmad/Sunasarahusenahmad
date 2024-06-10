@@ -10,6 +10,26 @@
 
 I am a **Full Stack Developer** currently working at **Wan Buffer Services**. With a passion for coding and a knack for creating dynamic web, mobile & Desktop applications, I thrive on turning ideas into reality.
 
+#### 🌱 I’m currently learning:
+- Advance JavaScript Framework
+- Cloude Computing (AWS, Azure)
+
+#### 👯 I’m looking to collaborate on:
+- Innovative Applications
+-  Open Source Projects
+
+#### 💬 Ask me about: 
+- Web Development
+- Mobile App Development
+- Standalone(Desktop) Application
+  
+#### 📫 How to reach me:
+- Email: [sunasarahusenahmad07@gmail.com](mailto:sunasarahusenahmad07@gmail.com)
+- LinkedIn: [Sunasara Husenahmad](https://www.linkedin.com/in/sunasara-husenahmad-686897250/)
+
+#### ⚡ Fun fact: 
+- **Algorithm:** Word used by programmers when they don't want to explain what they did.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Languages and Tools</b>
@@ -36,7 +56,7 @@ I am a **Full Stack Developer** currently working at **Wan Buffer Services**. Wi
 
 <br>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Most Used Languages</b>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Stats & Languages</b>
 
 <br>
 
@@ -46,6 +66,4 @@ I am a **Full Stack Developer** currently working at **Wan Buffer Services**. Wi
 </div>
 
 <br>
-
-
 
