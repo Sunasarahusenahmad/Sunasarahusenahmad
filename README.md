@@ -36,14 +36,15 @@ I am a **Full Stack Developer** currently working at **Wan Buffer Services**. Wi
 
 <br>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats & Most Used Languages</b>
 
 <br>
 
-<div>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sunasarahusenahmad&show_icons=true&theme=cobalt" alt="Husenahmad GitHub stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunasarahusenahmad&layout=compact&theme=cobalt" alt="Top Languages"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sunasarahusenahmad&show_icons=true&theme=cobalt" alt="Husenahmad GitHub stats" height="200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunasarahusenahmad&layout=compact&theme=cobalt" alt="Top Languages" height="200px">
 </div>
+
 <br>
 
 
