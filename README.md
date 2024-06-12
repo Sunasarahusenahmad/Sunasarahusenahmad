@@ -10,6 +10,8 @@
 
 I am a **Full Stack Developer** currently working at **Wan Buffer Services**. With a passion for coding and a knack for creating dynamic web, mobile & Desktop applications, I thrive on turning ideas into reality.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 #### 🌱 I’m currently learning:
 - Advance JavaScript Framework
 - Cloude Computing (AWS, Azure)
