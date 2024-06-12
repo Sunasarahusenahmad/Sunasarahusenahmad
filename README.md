@@ -1,8 +1,8 @@
 <h2><b>Hii, github friends</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?font=Montserrat&weight=700" width="35"></h2>
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&center=true&vCenter=true&width=700&height=70&weight=700&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Open+Source+Contributor;Love+to+learn+new+Stuff...&color=1572B6">
+ <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&center=true&vCenter=true&width=700&height=70&weight=900&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Open+Source+Contributor;Love+to+learn+new+Stuff...&color=1572B6">
   </a>
 </p>
 
