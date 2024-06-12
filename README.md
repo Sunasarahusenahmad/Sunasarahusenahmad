@@ -42,7 +42,10 @@ I am a **Full Stack Developer** currently working at **Wan Buffer Services**. Wi
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap badge">
  <img src="https://img.shields.io/badge/Tailwind%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS badge">
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
-<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS Badge"/>
+<img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+<img src="https://img.shields.io/badge/-Express.js-e6e5e3?style=for-the-badge&logo=express&logoColor=black" alt="Express.js Badge"/>
+<img src="https://img.shields.io/badge/-Electron-blue?style=for-the-badge&logo=electron&logoColor=white" alt="Electron Badge"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=f7f7f7" />
   <img src="https://img.shields.io/badge/-MongoDB-006548?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-42759C?&style=for-the-badge&logo=mysql&logoColor=f7f7f7" />
